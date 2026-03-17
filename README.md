@@ -7,6 +7,7 @@ It is used to classify whether a person is underweight, normal weight, overweigh
  BMI = weight (kg) / (height (m))²
  
 **Interpretation:** 
+
 •Underweight: BMI < 18.5 
 
 •Normal: 18.5 – 24.9 
