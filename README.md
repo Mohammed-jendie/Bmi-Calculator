@@ -1,16 +1,18 @@
-# bmi
+# Bmi-Calculator
+A *BMI calculator* is a tool that calculates a person's Body Mass Index (BMI) based on their weight and height.
 
-A new Flutter project.
+It is used to classify whether a person is underweight, normal weight, overweight, or obese.
 
-## Getting Started
+**Formula :**
+ BMI = weight (kg) / (height (m))²
+ 
+**Interpretation:** 
 
-This project is a starting point for a Flutter application.
+•Underweight: BMI < 18.5 
 
-A few resources to get you started if this is your first Flutter project:
+•Normal: 18.5 – 24.9 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+•Overweight: 25 – 29.9 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+•Obese: 30 or more
+
